@@ -1,3 +1,5 @@
+![coxinha]()
+
 # LDP-Coxinha
 <blockquote>Esse é o repositório da linguagem coxinha.</blockquote>
 
