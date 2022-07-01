@@ -1,4 +1,4 @@
-![coxinha]()
+![coxinha](https://raw.githubusercontent.com/srKIBI/LDP-Coxinha/main/Untitled19_20220701071720.png)
 
 # LDP-Coxinha
 <blockquote>Esse é o repositório da linguagem coxinha.</blockquote>
